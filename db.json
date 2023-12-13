@@ -10,8 +10,13 @@
     { "id": 8, "title": "Post 8" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Jérome", "postId": 1 },
+    { "id": 2, "body": "Mahé", "postId": 1 },
+    { "id": 3, "body": "Théo", "postId": 1 },
+    { "id": 4, "body": "Carina", "postId": 1 },
+    { "id": 5, "body": "Guillaume", "postId": 1 },
+    { "id": 6, "body": "Laurent", "postId": 1 },
+    { "id": 7, "body": "Xavier", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
